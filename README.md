@@ -188,3 +188,8 @@ SELECT * FROM wizards WHERE age > (80 + 5);
 ```
 
 Obviously you could have just used 85 here. Later on, we'll cover how to combine them with compound select statements to make them more useful.
+
+## Resources
+
+* [Conditional Filtering with WHERE](http://www.padjo.org/tutorials/databases/sql-where/)
+* [Fuzzy Matching](http://www.padjo.org/tutorials/databases/sql-fuzzy/)
