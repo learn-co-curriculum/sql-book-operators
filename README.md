@@ -196,3 +196,5 @@ Obviously you could have just used 85 here. Later on, we'll cover how to combine
 * [GROUPing](http://www.padjo.org/tutorials/databases/sql-group/)
 * [Aggregate Functions](http://www.padjo.org/tutorials/databases/sql-aggregate-functions/)
 * [Limiting and Ordering](http://www.padjo.org/tutorials/databases/sql-order-limit/)
+
+<a href='https://learn.co/lessons/sql-book-operators' data-visibility='hidden'>View this lesson on Learn.co</a>
