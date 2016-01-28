@@ -197,4 +197,4 @@ Obviously you could have just used 85 here. Later on, we'll cover how to combine
 * [Aggregate Functions](http://www.padjo.org/tutorials/databases/sql-aggregate-functions/)
 * [Limiting and Ordering](http://www.padjo.org/tutorials/databases/sql-order-limit/)
 
-<a href='https://learn.co/lessons/sql-book-operators' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-book-operators' title='Operators'>Operators</a> on Learn.co and start learning to code for free.</p>
